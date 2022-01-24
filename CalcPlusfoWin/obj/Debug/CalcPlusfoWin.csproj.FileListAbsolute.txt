@@ -1,0 +1,11 @@
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\bin\Debug\CalcPlusfoWin.exe.config
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\bin\Debug\CalcPlusfoWin.exe
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\bin\Debug\CalcPlusfoWin.pdb
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\obj\Debug\CalcPlusfoWin.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\obj\Debug\CalcPlusfoWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\obj\Debug\CalcPlusfoWin.Form1.resources
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\obj\Debug\CalcPlusfoWin.Properties.Resources.resources
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\obj\Debug\CalcPlusfoWin.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\obj\Debug\CalcPlusfoWin.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\obj\Debug\CalcPlusfoWin.exe
+C:\Users\valer\source\repos\CalcPlusfoWin\CalcPlusfoWin\obj\Debug\CalcPlusfoWin.pdb
